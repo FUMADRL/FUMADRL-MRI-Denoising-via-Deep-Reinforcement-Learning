@@ -1,3 +1,5 @@
-# FUMADRL-MRI-Denoising-via-Deep-Reinforcement-Learning
 
-**Code will be uploaded upon paper acceptance.**
+FUMADRL: Fused Uncertainty- and Multiband-aware Attention in Deep Reinforcement Learning for MRI Denoising  
+
+* The source code will be made publicly available here upon the acceptance.
+
